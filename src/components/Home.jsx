@@ -60,7 +60,7 @@ const Home = () => {
     <div>
       <div>  
     
-    <div><h1 style={{color:'CornflowerBlue'}}>I want Lisa's.... wrapped around my face</h1>This site will be up by October 31, 2024</div>
+    <div><h1 style={{color:'CornflowerBlue'}}>Louis Slutton will be the most interactive and exciting site.</h1>This site will be up by October 31, 2024</div>
     </div>
       { loading ? <p>Loading data...</p> :
         <MaterialReactTable 
