@@ -59,8 +59,8 @@ const Home = () => {
   return (
     <div>
       <div>
-    {/* <div sx={{color: red}}><h1>I want Lisa's legs wrapped around my face.S</h1></div> */}
-    <h1>Louis Slutton will be the most interactive and exciting site.</h1>
+    <h1 sx={{color: red}}>I want Lisa's legs wrapped around my face.</h1>
+    <h2>Louis Slutton will be the most interactive and exciting site.</h2>
     <div>This site will be up by October 31, 2024</div>
     </div>
       { loading ? <p>Loading data...</p> :
